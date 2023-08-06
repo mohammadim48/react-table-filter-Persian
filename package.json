@@ -1,5 +1,5 @@
 {
-  "name": "react-table-filter-pro",
+  "name": "react-table-filter-persian",
   "version": "1.0.2",
   "description": "> Module creates Excel like Column Filters for Table. The filter list contains all the unique items present in every column. See image below for example.",
   "main": "lib/bundle.js",
@@ -16,9 +16,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cheekujha/react-table-filter.git"
+    "url": "git+https://github.com/mohammadim48/react-table-filter-Persian.git"
   },
-  "author": "cheekujha@gmail.com",
+  "author": "mohammadim48@gmail.com",
   "license": "ISC",
   "dependencies": {
     "prop-types": "^15.6.0"
@@ -67,9 +67,9 @@
     "react-filter-table"
   ],
   "bugs": {
-    "url": "https://github.com/cheekujha/react-table-filter/issues"
+    "url": "https://github.com/mohammadim48/react-table-filter-Persian/issues"
   },
-  "homepage": "https://github.com/cheekujha/react-table-filter#readme",
+  "homepage": "https://github.com/mohammadim48/react-table-filter-Persian#readme",
   "directories": {
     "doc": "docs",
     "example": "examples",

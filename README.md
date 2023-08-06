@@ -1,4 +1,4 @@
-# react-table-filter
+# react-table-filter-persian
 
 > Module creates Excel like Column Filters for Table. The filter list contains all the unique items present in every column. See image below for example.
 
@@ -14,10 +14,10 @@ You need to have react and react-dom as dependencies in your project.
 1. With [npm](https://npmjs.org/) installed, run
 
 ```
-$ npm install react-table-filter --save
+$ npm install react-table-filter-persian --save
 ```
 
-2. At this point you can import react-table-filter and its styles in your application as follows:
+2. At this point you can import react-table-filter-persian and its styles in your application as follows:
 
 ```js
 import TableFilter from 'react-table-filter';
